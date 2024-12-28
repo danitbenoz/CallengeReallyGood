@@ -1,5 +1,3 @@
-// TShirtPreview.styles.ts
-
 import { CSSProperties } from 'react';
 
 interface Styles {
